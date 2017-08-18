@@ -7,8 +7,8 @@ $('document').ready(function(e){
             password: {
                 required: true,
             },
-            
-        },
+
+        }
 
 
         submitHandler: function (form) { // for demo

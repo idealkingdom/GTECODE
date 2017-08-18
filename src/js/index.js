@@ -6,7 +6,8 @@ $('document').ready(function(e){
             },
             password: {
                 required: true,
-            }
+            },
+            
         },
 
 
